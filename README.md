@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me franklin@gmail.com
+- 📫 How to reach me franklinspablu@gmail.com
 
 <!---
 franklinspablu/franklinspablu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
