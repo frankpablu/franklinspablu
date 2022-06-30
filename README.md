@@ -7,7 +7,7 @@
 -🎓<b> [Education](#education) <b> <br>
 [Universidad Tecnológica de Panamá](https://www.utp.ac.pa) <br> 
 Computing and Systems Engineering <br>   
-2018 - actualidad
+2018 - currently
 
 <!---
 franklinspablu/franklinspablu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
