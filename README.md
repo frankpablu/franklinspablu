@@ -4,7 +4,7 @@
 - 📫 How to reach me franklinspablu@gmail.com
 
 
-<b> [Education](#education)🎓 <b> <br>
+<b> [Education]🎓 <b> <br>
 [Universidad Tecnológica de Panamá](https://www.utp.ac.pa) <br> Computing and Systems Engineering <br>2018 - currently
 
 
