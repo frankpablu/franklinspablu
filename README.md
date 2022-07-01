@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Franklin but you can call me Frank 🧑🏻‍💻
+### 👋 Hi, I’m Franklin 🧑🏻‍💻
 - 📘 I’m currently learning javascript
 - 👀 I’m looking to collaborate on some projects
 - 📫 How to reach me franklinspablu@gmail.com
