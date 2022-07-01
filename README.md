@@ -1,10 +1,10 @@
-### 👋 Hi, I’m Franklin 🧑🏻‍💻
+# 👋 Hi, I’m Franklin 🧑🏻‍💻
 - 📘 I’m currently learning javascript
 - 👀 I’m looking to collaborate on some projects
 - 📫 How to reach me franklinspablu@gmail.com
 
 
-<b> Education 🎓 <b> <br>
+## Education 🎓 <br>
 [Universidad Tecnológica de Panamá](https://www.utp.ac.pa) <br> Computing and Systems Engineering <br>2018 - currently
 
 
