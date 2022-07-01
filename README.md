@@ -7,6 +7,8 @@
 ## Education 🎓 <br>
 [Universidad Tecnológica de Panamá](https://www.utp.ac.pa) <br> Computing and Systems Engineering <br>2018 - currently
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinspablu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinspablu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 franklinspablu/franklinspablu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
