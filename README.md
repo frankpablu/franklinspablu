@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Franklin 🧑🏻‍💻
-- 📘 I’m currently learning javascript
+- 📘 I’m currently learning cybersecurity
 - 👀 I’m looking to collaborate on some projects
 - 📫 How to reach me franklinspablu@gmail.com
 
