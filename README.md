@@ -5,7 +5,7 @@
 
 
 ## Education 🎓 <br>
-Universidad Tecnológica de Panamá <br> Computing and Systems Engineering <br>2018 - currently
+Universidad Tecnológica de Panamá <br> Systems and Computing Engineering <br>2018 - currently
 
 ## Github Stats 📊 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinspablu)](https://github.com/anuraghazra/github-readme-stats)
