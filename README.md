@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Franklin 🧑🏻‍💻
+# 👋 Hi, I’m Frank 🧑🏻‍💻
 - 📘 I’m currently learning cybersecurity
 - 👀 I’m looking to collaborate on some projects
 - 📫 How to reach me franklinspablu@gmail.com
